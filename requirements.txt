@@ -4,3 +4,5 @@ python-dotenv
 sentence-transformers
 streamlit
 chromadb 
+mcp
+mcp[cli]
